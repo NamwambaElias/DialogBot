@@ -1,0 +1,18 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.4",
+  "body": [
+    {
+      "type": "TextBlock",
+      "text": "Available Flights",
+      "weight": "Bolder",
+      "size": "Medium"
+    },
+    {
+      "type": "TextBlock",
+      "text": "1. Flight 101 - 8:00 AM\n2. Flight 202 - 12:00 PM\n3. Flight 303 - 6:00 PM\n4. Flight 404 - 5:00 PM\n5. Flight 505 - 6:00 AM\n6. Flight 606 - 4:00 AM",
+      "wrap": true
+    }
+  ]
+}
